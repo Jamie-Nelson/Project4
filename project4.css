@@ -113,7 +113,7 @@
 }
 
 .banner {
-    background: url(images/header.jpg) center / cover no-repeat;
+    background: url(header.jpg) center / cover no-repeat;
     text-align: center;
     color: white;
     padding: 100px 20px;
